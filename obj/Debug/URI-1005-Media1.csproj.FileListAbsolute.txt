@@ -1,0 +1,7 @@
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\bin\Debug\URI_1005_Media1.exe.config
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\bin\Debug\URI_1005_Media1.exe
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\bin\Debug\URI_1005_Media1.pdb
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\obj\Debug\URI-1005-Media1.csprojAssemblyReference.cache
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\obj\Debug\URI-1005-Media1.csproj.CoreCompileInputs.cache
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\obj\Debug\URI_1005_Media1.exe
+C:\Users\comra\Downloads\URI-1005-Media1-master\URI-1005-Media1-master\obj\Debug\URI_1005_Media1.pdb
